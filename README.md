@@ -4,7 +4,7 @@
 
 ## Professional Summary
 
-I am a **highly committed and accountable Game Programmer**. With **2 years of deep expertise in the Unity Engine**, I have taken full ownership of the **technical architecture** and **core feature implementation** for multiple projects. My dedication lies in delivering efficient and scalable technical solutions within game development.
+I am a **highly committed and accountable Game Programmer**. With **1 years of deep expertise in the Unity Engine**, I have taken full ownership of the **technical architecture** and **core feature implementation** for multiple projects. My dedication lies in delivering efficient and scalable technical solutions within game development.
 
 ---
 
