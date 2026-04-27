@@ -1,6 +1,5 @@
 # Pandu Satria Permana | Game Programmer
 > "Per Aspera Ad Astra"
-## Professional Summary
 
 I am a **highly committed and accountable Game Programmer**. With **expertise in the Unity Engine**, I have taken full ownership of the **technical architecture** and **core feature implementation** for multiple projects. My dedication lies in delivering efficient and scalable technical solutions, specializing in **Dependency Injection** and **Modular Systems**.
 
