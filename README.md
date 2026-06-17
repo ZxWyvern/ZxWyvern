@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif" width="60%" alt="blackhole"/>
-
 </div>
 
 <div align="center">
