@@ -1,35 +1,72 @@
-# Pandu Satria Permana | Game Programmer
-> "Per Aspera Ad Astra"
+<div align="center">
 
-I am a **highly committed and accountable Game Programmer**. With **expertise in the Unity Engine**, I have taken full ownership of the **technical architecture** and **core feature implementation** for multiple projects. My dedication lies in delivering efficient and scalable technical solutions, specializing in **Dependency Injection** and **Modular Systems**.
+<img src="https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif" width="60%" alt="blackhole"/>
 
-## Technical Expertise
+</div>
 
-### **Core Game Engine & Framework**
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![VContainer](https://img.shields.io/badge/VContainer-DI-blue?style=for-the-badge&logo=unity&logoColor=white)
+<div align="center">
 
-### **Architecture & Systems**
-![ASMDEF](https://img.shields.io/badge/ASMDEF-Modular-black?style=for-the-badge&logo=unity&logoColor=white)
-![Dependency Injection](https://img.shields.io/badge/Architecture-DI-brightgreen?style=for-the-badge)
-![Input System](https://img.shields.io/badge/Unity-Input%20System-orange?style=for-the-badge&logo=unity&logoColor=white)
+```
+██████╗ ███████╗██████╗      █████╗ ███████╗██████╗ ███████╗██████╗  █████╗
+██╔══██╗██╔════╝██╔══██╗    ██╔══██╗██╔════╝██╔══██╗██╔════╝██╔══██╗██╔══██╗
+██████╔╝█████╗  ██████╔╝    ███████║███████╗██████╔╝█████╗  ██████╔╝███████║
+██╔═══╝ ██╔══╝  ██╔══██╗    ██╔══██║╚════██║██╔═══╝ ██╔══╝  ██╔══██╗██╔══██║
+██║     ███████╗██║  ██║    ██║  ██║███████║██║     ███████╗██║  ██║██║  ██║
+╚═╝     ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-### **Rendering & Graphics**
-![URP](https://img.shields.io/badge/URP-Custom%20Pipeline-black?style=for-the-badge&logo=unity&logoColor=white)
-![Render Graph](https://img.shields.io/badge/Unity%206-Render%20Graph-blue?style=for-the-badge&logo=unity&logoColor=white)
-![HLSL](https://img.shields.io/badge/HLSL-Shader%20Coding-blueviolet?style=for-the-badge&logo=opengl&logoColor=white)
+### *Per Aspera Ad Astra*
 
-## Current Project: Silent Universe
+**Game Programmer Lead · Unity 6 Architect · Graphics Engineer**
 
-I am currently developing **Silent Universe**, a horror mystery game focusing on advanced technical systems:
-* **Decoupled Architecture**: Implementing **VContainer** for complex dependency management between systems like Inventory, Narrative, and AI.
-* **Modular Compilation**: Using **Assembly Definitions (ASMDEF)** to optimize build times and enforce strict code boundaries.
-* **Advanced Rendering**: Developed a custom **CRT Effect** using the new **Unity 6 Render Graph API** and **HLSL**.
-* **Persistence System**: Built a scalable save system using the `IPersistable` interface for reliable data management.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/schreinaa)
+![Profile Views](https://komarev.com/ghpvc/?username=schreinaa&style=for-the-badge&color=blueviolet)
 
-## Connect with Me
+</div>
 
-Connect with me and follow my work through these platforms:
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=social&logo=Instagram)](https://instagram.com/schreinaa)
+A **Game Programmer Lead** and software engineering student with a disciplined focus on producing commercial-grade game systems in **Unity 6**. I specialize in translating complex design requirements into clean, layered architectures — enforcing strict separation of concerns through Assembly Definitions, interface-driven design, and Dependency Injection. My technical scope spans the full stack: from domain modelling and application logic down to custom render pipeline development with HLSL and the Unity 6 Render Graph API.
+
+I hold myself to a single standard across every system I ship: correctness first, performance by design, maintainability by structure.
+
+```
+Focus areas:  Clean Architecture · Dependency Injection · Custom Render Pipelines · System Design
+```
+
+---
+
+## Technical Stack
+
+**Engine & Language**
+
+![Unity 6](https://img.shields.io/badge/Unity%206-black?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![VContainer](https://img.shields.io/badge/VContainer-DI%20Framework-blue?style=for-the-badge)
+
+**Architecture**
+
+![ASMDEF](https://img.shields.io/badge/ASMDEF-Modular%20Compilation-black?style=for-the-badge&logo=unity&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Domain%20%7C%20UseCases%20%7C%20Infra-brightgreen?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Patterns-State%20%7C%20Observer%20%7C%20Adapter-orange?style=for-the-badge)
+
+**Graphics**
+
+![URP](https://img.shields.io/badge/URP-Custom%20Pipelines-black?style=for-the-badge&logo=unity&logoColor=white)
+![Render Graph](https://img.shields.io/badge/Unity%206-Render%20Graph%20API-007acc?style=for-the-badge&logo=unity&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-Shader%20Development-blueviolet?style=for-the-badge)
+![OpenGL](https://img.shields.io/badge/OpenGL-OpenTK-red?style=for-the-badge&logo=opengl&logoColor=white)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Fish Shell](https://img.shields.io/badge/Fish%20Shell-4aae46?style=for-the-badge)
+
+---
+
+<div align="center">
+
+*Precision in architecture. Discipline in execution. Systems built to last.*
+
+</div>
