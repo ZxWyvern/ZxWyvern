@@ -14,7 +14,7 @@ Beyond programming, I explore game design and narrative development particularly
 * Narrative Design : Character motivation, environmental storytelling, narrative systems, and psychological tension.
 * AI-Assisted Development : Using AI to accelerate exploration, documentation, debugging, and code review while keeping implementation decisions grounded in the actual project and codebase.
 
-**Languages**
+**Tech Stack**
 
 <p align="left">
   <font size="4">
@@ -27,8 +27,6 @@ Beyond programming, I explore game design and narrative development particularly
   </font>
 </p>
 
-**Engines & Tools**
-
 <p align="left">
   <font size="4">
     <img src="https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white" />
@@ -40,8 +38,6 @@ Beyond programming, I explore game design and narrative development particularly
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </font>
 </p>
-
-**Unity Ecosystem & Architecture**
 
 <p align="left">
   <font size="4">
