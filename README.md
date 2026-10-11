@@ -14,30 +14,47 @@ Beyond programming, I explore game design and narrative development particularly
 * Narrative Design : Character motivation, environmental storytelling, narrative systems, and psychological tension.
 * AI-Assisted Development : Using AI to accelerate exploration, documentation, debugging, and code review while keeping implementation decisions grounded in the actual project and codebase.
 
-## Tech Stack
+**Languages**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Plastic_SCM-222222?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gluon-000000?style=flat-square&logo=unity&logoColor=white" />
+  <font size="4">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  </font>
 </p>
 
-Unity Ecosystem & Architecture
+**Engines & Tools**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VContainer-6C5CE7?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/UniTask-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Addressables-222222?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Input%20System-222222?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/ScriptableObjects-222222?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/URP-222c37?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASMDEF-5C2D91?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/DOTween-007ACC?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/NUnit-C0392B?style=flat-square&logo=nuget&logoColor=white" />
+  <font size="4">
+    <img src="https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+    <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+    <img src="https://img.shields.io/badge/RPG_Maker_VX_Ace-800000?style=for-the-badge&logo=game-and-watch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Plastic_SCM-222222?style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </font>
+</p>
+
+**Unity Ecosystem & Architecture**
+
+<p align="left">
+  <font size="4">
+    <img src="https://img.shields.io/badge/VContainer-6C5CE7?style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/UniTask-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Addressables-222222?style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Input%20System-222222?style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/ScriptableObjects-222222?style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/URP-222c37?style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/ASMDEF-5C2D91?style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/DOTween-007ACC?style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/NUnit-C0392B?style=for-the-badge&logo=nuget&logoColor=white" />
+  </font>
 </p>
 
 ## Selected Work
