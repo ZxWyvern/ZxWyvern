@@ -1,5 +1,6 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" alt="Header Image">
+<hr>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=991B1B&width=600&lines=Game+Programmer;Software+Architecture;Psychological+Horror+%26+Narrative+Design;ZxWyvern" alt="Typing Effect Header" />
-
 I build games where code, systems, mechanics, and narrative work together as a cohesive experience.
 
 My primary focus is game development with Unity and C#, specializing in gameplay systems, software architecture, and maintainable codebases. I care about building systems that are not only functional, but also modular, understandable, extensible, and reliable as a project grows.
